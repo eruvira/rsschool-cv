@@ -1,0 +1,1 @@
+<img src="https://img.hhcdn.ru/photo/605981272.jpeg?t=1664359427&h=9_MNCK_E4fQfdfkpfi1d2A" width="200" />
