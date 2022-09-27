@@ -43,3 +43,31 @@ var isPalindrome = function(s) {
     return true
 };
 ```
+***
+## Work experience
+
+- ### **Adamar Solutions** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2022 — currently
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School managment system development
+
+- ### **Otbasy Bank** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; February 2021 — January 2022
+<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; realty portal development
+
+***
+## Education
+- ### International Information Technology University, Almaty 
+    - Information Security Systems, Bachelor
+- ### University of Michigan
+    - coursera.com, Building Web Applications in PHP
+
+- ### California Institute of the Arts
+    - coursera.com, Graphic Design
+***
+## Languages
+
+- Kazakh - Native
+- English - Upper-Intermediate
+- Russian - Native
